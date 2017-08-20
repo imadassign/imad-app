@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>Article-three</title>
+    </head>
+   
+     <meta name="viewport" content="width=device-width,initial-scale=1"/>
+        <div>
+            <a href="/">HOME</a>
+        </div>
+        <hr/>
+        <div>
+            <h3>
+                August 20,2017
+            </h3>
+        </div>
+       
+    </body>
+    
+</html>
